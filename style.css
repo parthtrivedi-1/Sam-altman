@@ -1,0 +1,42 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  line-height: 1.6;
+  padding: 20px;
+}
+header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+h1 {
+  font-family: Georgia, serif;
+  font-size: 3em;
+  color: #d90429;
+}
+
+h2 {
+  font-family: 'Courier New', monospace;
+  color: #2b2d42;
+  margin: 20px 0;
+}
+
+section {
+  max-width: 800px;
+  margin: 0 auto 30px;
+}
+
+img {
+  width: 100%;
+  max-width: 300px;
+  display: block;
+  margin: 20px auto;
+  border-radius: 10px;
+}
